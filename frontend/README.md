@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### FYI
+
+I have created this application using MERN Stack for my learning purpose through Udemy and to start or run the server temporarily all u have to do is to go to the frontend in folder on ut terminal and "npm start".
+
+The above is only for temporary purpose by downloading the src code from git by installing all the required packages and dependancies.
+
+Permanently no worries, I'll deploy the application for public usage in heroku or similar platforms.
